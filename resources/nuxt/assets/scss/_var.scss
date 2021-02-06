@@ -1,0 +1,18 @@
+$logo-blue: rgb(31, 166, 221);
+$logo-orange: #fdb92d;
+$logo-green: #26a647;
+
+$secondary-color: #9b9b9b;
+
+$shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.3);
+
+.blue-shadow {
+  box-shadow: 0px 0px 5px 0px $logo-blue;
+}
+
+.green-shadow {
+  box-shadow: 0px 0px 5px 0px $logo-green;
+}
+.orange-shadow {
+  box-shadow: 0px 0px 5px 0px $logo-orange;
+}

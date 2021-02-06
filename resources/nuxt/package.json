@@ -1,0 +1,41 @@
+{
+  "name": "tift",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/auth": "^4.9.1",
+    "@nuxtjs/proxy": "^2.1.0",
+    "@nuxtjs/pwa": "^3.3.3",
+    "@nuxtjs/toast": "^3.3.1",
+    "cookie-universal-nuxt": "^2.1.4",
+    "core-js": "^3.8.2",
+    "laravel-echo": "^1.10.0",
+    "laravel-file-manager": "^2.5.2",
+    "nuxt": "^2.14.12",
+    "nuxt-i18n": "^6.17.0",
+    "socket.io-client": "^2.4.0",
+    "vue-slick-carousel": "^1.0.6",
+    "vue-the-mask": "^0.11.1",
+    "vuelidate": "^0.7.6",
+    "vuex": "^3.6.0"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.14.12",
+    "@nuxtjs/axios": "^5.12.5",
+    "@nuxtjs/laravel-echo": "^1.1.0",
+    "@vue/test-utils": "^1.1.2",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-jest": "^26.1.0",
+    "jest": "^26.1.0",
+    "node-sass": "^4.14.1",
+    "nuxt-laravel": "^4.2.9",
+    "sass-loader": "^10.0.2",
+    "vue-jest": "^3.0.4"
+  }
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="27644911-a0dd-4544-b626-960ec988a5b7" name="local" url="http://pr2:80">
+        <fileTransfer mountedRoot="$PROJECT_DIR$/public" accessType="MOUNT" port="0" />
+      </webServer>
+      <webServer id="2931c808-d546-44f0-a37b-10a265d66263" name="docker" url="http://pr2">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

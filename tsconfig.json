@@ -1,0 +1,6 @@
+{
+    "extend": "/var/www/pr2/resources/nuxt/tsconfig.json",
+    "compilerOptions": {
+        "baseUrl": "/var/www/pr2/resources/nuxt"
+    }
+}
